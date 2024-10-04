@@ -1,3 +1,7 @@
+https://hotel-paradise.vercel.app/
+
+Live link [page](https://hotel-paradise.vercel.app)
+
 ## Goal/Requirements📝
 
 ### To develop an internal hotel management application for 'Hotel-Paradise'
