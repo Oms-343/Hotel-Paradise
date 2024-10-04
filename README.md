@@ -1,4 +1,4 @@
-https://hotel-paradise.vercel.app/
+## NOTE: This application is not mobile responsive
 
 Live link [page](https://hotel-paradise.vercel.app)
 
